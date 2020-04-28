@@ -24,7 +24,7 @@ LbriSpeech and BZNSYP would be considered.
 - [ ] add multiple upsample networks
 - [ ] add CI for tests
 
-References:
+## References:
 
 - [keithito Tacotron](https://github.com/keithito/tacotron)
 
