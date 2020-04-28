@@ -1,0 +1,6 @@
+hydra
+omegaconf
+tensorflow==2.1
+librosa
+numpy
+scipy

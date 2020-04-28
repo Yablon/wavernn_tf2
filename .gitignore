@@ -1,0 +1,9 @@
+# IDE
+.vscode
+
+# TEMP
+run.py
+outputs/*
+
+# CACHE
+**/__pycache__

@@ -1,0 +1,23 @@
+audio_process:
+  num_mels: 80
+  n_fft: 1024
+  sample_rate: 16000
+  frame_length_ms: 50
+  frame_shift_ms: 12.5
+  preemphasis: 0.97
+  voc_seq_frame: 5
+  pad: 2
+  rescale: true
+  ref_level_db: 20
+  min_level_db: -100
+
+train:
+  batch_size: 2
+
+metadata: "D:\\work\\wavernn\\examples\\metadata.csv"
+
+
+
+hydra:
+  run:
+    dir: "outputs/test_workspace"
