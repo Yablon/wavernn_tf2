@@ -26,5 +26,6 @@ LbriSpeech and BZNSYP would be considered.
 
 References:
 
-[keithito Tacotron](https://github.com/keithito/tacotron)
-[fatchord WaveRNN](https://github.com/fatchord/WaveRNN)
+- [keithito Tacotron](https://github.com/keithito/tacotron)
+
+- [fatchord WaveRNN](https://github.com/fatchord/WaveRNN)
