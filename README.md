@@ -7,3 +7,4 @@ Data: LbriSpeech
 - [ ] add lpcnet pipeline
 - [ ] train with lpcnet
 - [ ] add multiple upsample networks
+- [ ] add CI for tests
