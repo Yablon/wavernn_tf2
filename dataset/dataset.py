@@ -1,11 +1,10 @@
 from pathlib import Path
 
+import numpy as np
+import scipy.fftpack as fft
 import tensorflow as tf
 
 from dataset.audio import AudioProcess
-import scipy.fftpack as fft
-
-import numpy as np
 
 
 def read_metadata(meta_path: Path) -> list:
